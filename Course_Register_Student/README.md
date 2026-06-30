@@ -2,10 +2,6 @@
 
 A web-based application that allows students to browse and register for courses, while administrators manage courses and monitor registrations.
 
-## Team Members
-- Hosam Tarade (231102)
-- Zaid Fanoun (231087)
-- Bahaa Zahedah (231114)
 
 ## Technologies Used
 - HTML / CSS / JavaScript
